@@ -2,6 +2,7 @@
     "rules": {
         "preset-japanese": true,
         "preset-ja-spacing": true,
-        "ja-no-redundant-expression": true
+        "ja-no-redundant-expression": true,
+        "ja-no-abusage": true
     }
 }

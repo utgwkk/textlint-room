@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/utgwkk/textlint-room#readme",
   "dependencies": {
-    "textlint": "^11.4.0"
+    "textlint": "^11.4.0",
+    "textlint-rule-preset-japanese": "^4.0.4"
   }
 }

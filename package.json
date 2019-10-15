@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/utgwkk/textlint-room/issues"
   },
-  "homepage": "https://github.com/utgwkk/textlint-room#readme"
+  "homepage": "https://github.com/utgwkk/textlint-room#readme",
+  "dependencies": {
+    "textlint": "^11.4.0"
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "textlint-room",
+  "version": "1.0.0",
+  "description": "textlintを使って文章を書く場",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/utgwkk/textlint-room.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utgwkk/textlint-room/issues"
+  },
+  "homepage": "https://github.com/utgwkk/textlint-room#readme"
+}

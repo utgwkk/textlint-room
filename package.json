@@ -18,7 +18,7 @@
   "homepage": "https://github.com/utgwkk/textlint-room#readme",
   "dependencies": {
     "textlint": "^11.9.0",
-    "textlint-rule-ja-no-abusage": "^2.0.1",
+    "textlint-rule-ja-no-abusage": "^3.0.0",
     "textlint-rule-ja-no-redundant-expression": "^3.0.1",
     "textlint-rule-ja-no-successive-word": "^1.1.0",
     "textlint-rule-preset-ja-spacing": "^2.0.1",

@@ -1,5 +1,6 @@
 {
     "rules": {
+        "max-kanji-continuous-len": true,
         "preset-japanese": true,
         "preset-ja-spacing": true,
         "ja-no-redundant-expression": true,
